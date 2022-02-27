@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of John Danvers Esq; inter [brace] Rich. Browne quer' &amp; Waite defend'</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81277</idno>
+            <idno type="STC">Wing C927A</idno>
+            <idno type="STC">ESTC R173526</idno>
+            <idno type="EEBO-CITATION">47682813</idno>
+            <idno type="OCLC">ocm 47682813</idno>
+            <idno type="VID">172773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2649:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of John Danvers Esq; inter [brace] Rich. Browne quer' &amp; Waite defend'</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Danvers, John, --  Sir, 1588?-1655.</term>
+               <term>Inheritance and succession --  England.</term>
+               <term>Forfeiture --  England.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172773:1"/>
+            <head>The Caſe of <hi>John Danvers</hi> Eſq; inter <hi>Rich. Browne</hi> Quer' <hi>&amp; Waite</hi> Defend'</head>
+            <p>
+               <hi>HEnry</hi> Earl of <hi>Danby,</hi> by Deed and Fine,
+<note place="margin">4 <hi>Car.</hi> 1. <hi>Anno</hi> 1629.</note> ſettles the Mannor of <hi>Daunſey</hi> in <hi>Wiltſhire</hi> upon himſelf for Life; Remainder to Sir <hi>John Danvers</hi> his Brother for his Life; Remainder to <hi>Elizabeth</hi> Wife of Sir <hi>John Dan<g ref="char:EOLhyphen"/>vers</hi> for her Life; Remainder to the Heirs of the Body of the ſaid Sir <hi>John Danvers;</hi> Remainder to the right Heirs of the ſaid Earl.</p>
+            <p>
+               <hi>Henry</hi> Earl of <hi>Danby,</hi> and <hi>Elizabeth</hi> the Wife of Sir <hi>John Danvers,</hi> died before the Year 1646, and the Earl left no Iſſue, whereby Sir <hi>John Danvers</hi> became his Heir at Law; and by the ſaid Settlement was (in the Year 1646) ſeized of the ſaid Mannor in Tayle, and as Heir at Law to the Earl, had the Reverſion in Fee.</p>
+            <p>Sir <hi>John Danvers</hi> being ſo ſeized by Deed, dated 5<hi rend="sup">o</hi> 
+               <hi>May</hi> 1647,
+<note place="margin">
+                  <hi>Anno</hi> 1647.</note> Covenants to levy a Fine, with Proclamations of the ſaid Mannor, to the Uſe of him<g ref="char:EOLhyphen"/>ſelf, and the Heirs of his Body, Remainder to his own right Heirs; and the Fine accordingly had.</p>
+            <p>Sir <hi>John Danvers,</hi> 17 <hi>April</hi> 1655, died ſeized, leaving Iſſue <hi>John Dan<g ref="char:EOLhyphen"/>vers</hi> his Son and Heir, Leſſor of the Plaintiff.</p>
+            <p>In the Act <hi>of Indempnity,</hi> 12 <hi>Car.</hi> 2d, there is a Proviſo,
+<note place="margin">12 <hi>Car.</hi> 2d. cap. 11. <hi>Anno</hi> 1660.</note> that nothing in the Act contained ſhall extend to diſcharge the Lands, Tenements, Goods, Chattels, Rights, Truſts, and other Hereditaments of the ſaid Sir <hi>John Dan<g ref="char:EOLhyphen"/>vers,</hi> and others therein named, of and from ſuch Pains, Penalties, and For<g ref="char:EOLhyphen"/>feitures, as by one other Act of Parliament intended to be thereafter paſſed for that purpoſe, ſhould be expreſſed and delared.</p>
+            <p>By the Statute of <hi>Pains and Penalties,</hi> made the next Parliament,
+<note place="margin">13 <hi>Car.</hi> 2d. cap. 15. <hi>Anno</hi> 1661.</note> 13th <hi>Car.</hi> 2d, reciting the ſaid Proviſo in the Act of Indempnity, it is enacted, That all and every the Mannors, Meſſuages, Lands, Tenements, Rents, Re<g ref="char:EOLhyphen"/>verſions, Remainders, Poſſeſſions, Rights, Conditions, Intereſts, Offices, Fees, Annuities, and all other Hereditaments, Leaſes for Years, Chattels real, and other things of what nature ſoever they be, of the ſaid Sir <hi>Jonn Danvers</hi> and others therein named, which they, or any of them, or any other Perſon or Perſons to their Uſes, or in truſt for them, or any of them, had 25 <hi>March</hi> 1646, or at any time ſince, ſhall ſtand and be forfeited unto his Majeſty, his Heirs and Succeſſors, and ſhall be deemed, veſted and adjudged, to be in the actual and real Poſſeſſion of his Majeſty, without Office or Inquiſition thereof to be taken or found.</p>
+            <p>Sir <hi>John Danvers</hi> by neither of the ſaid Acts, nor any other, is attained of Treaſon.</p>
+            <p>King <hi>Charles</hi> the 2d, by his Letters Patents,
+<note place="margin">14 <hi>Car.</hi> 2d. Sept. 20.</note> grants the ſaid Mannor to the Duke of <hi>York</hi> and his Heirs; who getting into Poſſeſſion, Mr. <hi>Danvers</hi> as Leſſor, in the Name of the Plaintiff <hi>Richard Brown,</hi> brought his Ejectment to try his Title; which came to a Trial at the King's-Bench Bar, Sir <hi>Matthew Hale</hi> being then Chief Juſtice, who directed a ſpecial Verdict, and there<g ref="char:EOLhyphen"/>in the Matter above found, for the Judges to determine the Law, wherein Chief Juſtice <hi>Hale</hi> ſeemed of Opinion for Mr. <hi>Danvers</hi>'s Title: but before any Judgment given, he was removed; and Chief Juſtice <hi>Rainsford</hi> ſucceed<g ref="char:EOLhyphen"/>ing him, Judgment was given for the then Duke of <hi>York.</hi> Who after he came to the Crown, by Letters Patents ſettled the ſaid Mannor, amongſt other Lands, upon Truſtees for his Queen during her Life.</p>
+            <p>Mr. <hi>Danvers,</hi> ſince the late Revolution, brought a Writ of Error in the Exchequer-Chamber, before the Judges of the Common-Pleas, and Barons of the Exchequer: and the majority being of Opinion againſt him (thô ſome were for him) the Judgment given in the King's-Bench was affirmed. And whilſt the Writ of Error was depending, the Earl of <hi>Monmouth</hi> pro<g ref="char:EOLhyphen"/>cured a Grant from their preſent Majeſties of the ſaid Mannor to him and his Heirs.</p>
+            <pb n="2" facs="tcp:172773:2"/>
+            <p>Mr. <hi>Danvers</hi> hath now brought a Writ of Error in Parliament.</p>
+            <p>
+               <list>
+                  <head>The Queſtions are principally two, <hi>(viz.)</hi>
+                  </head>
+                  <item>Whether an Eſtate Tail be given or forfeited to the Crown,
+<label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>1</label> by the ſaid Act of <hi>Pains and Penalties?</hi>
+                  </item>
+                  <item>If not:
+<label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>2</label> then, Whether by Sir <hi>John Danvers</hi>'s Fine in 1647, the old En<g ref="char:EOLhyphen"/>tail in the ſaid Mannor be ſo extinguiſhed, that the remaining Eſtates there<g ref="char:EOLhyphen"/>in are given or forfeited to the Crown by that Act?</item>
+               </list>
+            </p>
+            <p>Judgment was given, both in the King's-Bench and Exchequer-Chamber upon the firſt Point ſingly.</p>
+            <p>It is conceived that Mr. <hi>Danvers</hi> is intitled to an Eſtate Tail in the Man<g ref="char:EOLhyphen"/>nor of <hi>Dauntſey,</hi> notwithſtanding the ſaid Act or Fine.</p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Stat. Weſt.</hi> 2d. 13 <hi>E.</hi> 1. <hi>c.</hi> 1.</note> By the Statute <hi>de donis Conditionalibus, no</hi> Eſtate Tail was forfei<g ref="char:EOLhyphen"/>table for Treaſon, till the Statute 26 <hi>H.</hi> 8. <hi>cap.</hi> 13. which gives no forfeiture of an Eſtate Tail, but where the Tenant in Tail is convicted of Treaſon, according to the courſe of the Common Law; which Conviction, or At<g ref="char:EOLhyphen"/>tainder, fails in this Caſe.</p>
+            <p n="2">2. The Statute of <hi>Pains</hi> and Penalties, hath no words that import a For<g ref="char:EOLhyphen"/>feiture of an Eſtate Tail, for the words in that Act only deſcribe the <hi>Chings</hi> to be forfeited, and not the <hi>Eſtate</hi> therein, and are not of the ſame import as the words of the Statute of 26 <hi>H.</hi> 8. that makes an Eſtate Tail <hi>forfeita<g ref="char:EOLhyphen"/>ble</hi> for <hi>Treaſon,</hi> by the Expoſition of the Judges; who grounded that their Opinion only upon theſe words in that Statute, <hi>(whereof they are ſeized of any Eſtate of Inheritance)</hi> becauſe an Eſtate Tail is an <hi>Eſtate</hi> of <hi>Inheri<g ref="char:EOLhyphen"/>tance;</hi> Which words, or any other to the like effect, are wanting in the Act of <hi>Pains and Penalties.</hi>
+            </p>
+            <p n="3">3. It is agreed, that if this Statute had been made before 26 <hi>H.</hi> 8. the E<g ref="char:EOLhyphen"/>ſtate Tail would not have been forfeited; and there's no more reaſon it ſhould be forfeited now, ſince Sir <hi>John Danvers</hi> was <hi>never Attainted.</hi> And it is to be obſerved, that <hi>Penal Statutes,</hi> ſuch as this is, are always conſtrued <hi>ſtrictly,</hi> and moſt beneficially for the Party accuſed: Which will the rather be ſo in this Caſe, becauſe the Parliament did <hi>not Attaint</hi> Sir <hi>John Danvers,</hi> but deſigned <hi>Favour</hi> to him, which they refuſed to others in the like Cir<g ref="char:EOLhyphen"/>cumſtances.</p>
+            <p>As to the ſecond Queſtion,
+<label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> it is anſwered, That the new Eſtate Tail, created by the Fine and Deed in 1647, is not forfeited by the Act of Pains and Penalties; becauſe the old Eſtate Tail could neither be <hi>extinguiſhed</hi> nor <hi>merged</hi> in the Reverſion in Fee-Simple, which all will allow. And the Fine rather bars the Iſſue to claim the Entail, than transfers it to the Connuſee; ſo that the old Eſtate remains in Effect, and the <hi>Vſe</hi> declared upon the Fine is executed the ſame moment, and leaves no Eſtate in the Connuſee <hi>forfeita<g ref="char:EOLhyphen"/>ble.</hi> Hence it follows, that the new Uſe to Sir <hi>John Danvers,</hi> and the Heirs of his Body, is derived out of the <hi>old Entail,</hi> that was as <hi>large,</hi> and <hi>equal</hi> with the new One, (and which was not forfeited) and not out of the Re<g ref="char:EOLhyphen"/>verſion <hi>in Fee</hi> that is <hi>owned</hi> to <hi>be forfeited.</hi>
+            </p>
+            <p>It has been objected,
+<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> That unleſs this Mannor of <hi>Dauntſey</hi> be forfeited by the Act of Pains and Penalties, thô Sir <hi>John Danvers</hi> be named in the Act, yet his Poſterity will not ſuffer any thing by it, which (ſay they) could never be the Intent of the Parliament.</p>
+            <p>It's anſwered;
+<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> That Mr. <hi>Danvers</hi> hath loſt by this Act, Lands to the value of 1500 <hi>l. per Annum,</hi> which deſcended to him in Fee-Simple; and other Children of Sir <hi>John Danvers</hi> have loſt near as much.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
